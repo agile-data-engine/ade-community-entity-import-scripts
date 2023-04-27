@@ -1,5 +1,11 @@
-data/listings.csv
-data/reviews.csv
-entity_import.csv
 .ipynb_checkpoints
 .DS_Store
+
+
+# exclude everything
+data/*
+entity_import/*
+
+# exception to the rule
+!data/.gitkeep
+!entity_import/.gitkeep
