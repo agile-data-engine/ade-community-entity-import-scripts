@@ -2,3 +2,4 @@ data/listings.csv
 data/reviews.csv
 entity_import.csv
 .ipynb_checkpoints
+.DS_Store
